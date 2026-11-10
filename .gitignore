@@ -1,0 +1,4 @@
+node_modules/
+.obsidian/
+*.map
+.DS_Store

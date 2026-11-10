@@ -1,0 +1,10 @@
+{
+  "templates": [
+    {
+      "id": "1794271759365-2eh1ea",
+      "name": "新模板",
+      "template": "<input>\n- %1 and %2\n</input>\n\n<output>\nPlease deep think, %1 and %2\n<\\n>===\n</output>"
+    }
+  ],
+  "deleteSelection": true
+}
