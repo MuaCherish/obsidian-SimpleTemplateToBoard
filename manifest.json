@@ -1,9 +1,10 @@
 {
   "id": "template-clipboard",
-  "name": "简单模板转换到粘贴板 (SimpleTemplateToBoard)",
+  "name": "SimpleTemplateToBoard",
   "version": "1.0.0",
   "minAppVersion": "1.4.0",
-  "description": "将选中或复制的数据按模板转换为固定格式，并复制到剪贴板。",
+  "description": "Transform selected or copied text with a template, then copy the result straight to the clipboard.",
   "author": "MuaCherish",
+  "authorUrl": "https://github.com/MuaCherish",
   "isDesktopOnly": true
 }
